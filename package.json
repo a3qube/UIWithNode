@@ -12,5 +12,6 @@
     "UI"
   ],
   "author": "Arjun A Nair",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {}
 }
